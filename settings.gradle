@@ -1,0 +1,9 @@
+include ':results_api'
+include ':handler'
+include ':design_patterns'
+include ':thread'
+include ':executor'
+include ':service'
+include ':compose'
+include ':flow'
+rootProject.name = "Jetpack"
